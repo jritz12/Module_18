@@ -1,0 +1,28 @@
+Dashboard 1:
+
+These visualizations look at the busiest start stations.
+On the map each start location is labeled by a bubble whose size corresponds to the number of trips
+that started from that location.
+The bar graph shows the top 10 most popular start locations.
+Grove Street Path was the most popular start location.
+
+Dashboard 2:
+
+The first visualization shows the most popular hours of the day and the second 
+visualization shows the average ride length for each day.
+There are two peaks at 8:00 AM and 5:00 PM in which there is a large increase in bike rentals. 
+
+Dashboard 3:
+
+These visualizations look at which bike has been used the most.
+The first visualization shows which bike has the most recorded total minutes of usage.
+The second visualization shows which bike has the most rides booked on it.
+Bike 26148 had the most minutes of usage with a total of 3,485,842 minutes
+
+Dashboard 4:
+
+These visualizations look at the differences between casual users and members.
+The first visualization looks at how many rides each group booked in the given month.
+The second visualization looks at the number of minutes each groups rode the bikes in the
+given month.
+Members used bikes more than casual users
